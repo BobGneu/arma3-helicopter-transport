@@ -1,0 +1,16 @@
+onLoadName = "Helicopter Transport Test Map v.1.4";
+onLoadMission = "Sample Map to test transporting vehicles and emplacements with helicopters.";
+author="Bob_Gneu";
+
+showGPS=1;
+respawn = 3;
+respawnDelay = 2;
+respawnDialog = 0;
+disabledAI = true;
+
+class Header
+{
+	gameType = COOP;
+	minPlayers = 1;
+	maxPlayers = 10;
+};
